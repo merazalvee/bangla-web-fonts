@@ -94,7 +94,8 @@ body {
 }
 .font-input {
   width: 100%;
-  border: none;
+  border: 1px #615897 dashed;
+  /*border: none;*/
   padding: 10px 10px;
   border-radius: 5px;
 }
