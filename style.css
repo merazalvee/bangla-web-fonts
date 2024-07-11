@@ -139,6 +139,7 @@ body {
 }
 #preview {
   height: 60px;
+  text-align: center;
 }
 .cdn-section {
   display: flex;
