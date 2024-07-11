@@ -88,7 +88,7 @@ body {
   color: #ffffff;
   border: 1px #615897 dashed;
   align-items: center;
-  padding: 10px;
+  padding: 10px 10px 10px 20px;
   border-radius: 10px;
   font-family: "Space Grotesk", "Hind Siliguri", sans-serif;
 }
@@ -96,7 +96,7 @@ body {
   width: 100%;
   border: 1px #615897 dashed;
   /*border: none;*/
-  padding: 10px 10px 10px 20px;
+  padding: 10px 10px;
   border-radius: 5px;
 }
 .form-range::-moz-range-thumb {
