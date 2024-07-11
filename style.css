@@ -9,7 +9,7 @@
 /* Font CSS */
 @import "./FontCSS/aborton.css";
 @import "./FontCSS/priyo-nabi.css";
-@import "./FontCSS/apona-lohit.css";
+@import "./FontCSS/himel-borno.css";
 @import "./FontCSS/alinur-tatsama.css";
 @import "./FontCSS/alinur-borno-bikash.css";
 @import "./FontCSS/hind-siliguri.css";
@@ -235,8 +235,8 @@ body {
 .priyo-nabi {
   font-family: "Priyo Nabi";
 }
-.apona-lohit {
-  font-family: "Apona Lohit";
+.himel-borno {
+  font-family: "Himel Borno";
 }
 .alinur-tatsama {
   font-family: "Alinur Tatsama";
