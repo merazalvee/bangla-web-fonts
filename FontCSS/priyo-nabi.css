@@ -1,0 +1,8 @@
+/* Priyo Nabi Font Face */
+@font-face {
+  font-family: "Priyo Nabi";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/priyo-nabi.ttf) format("truetype");
+}
