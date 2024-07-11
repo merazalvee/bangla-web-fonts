@@ -158,10 +158,10 @@ body {
   border: none;
 }
 .lineui {
-  color: #4ad295;
+  color: #ffffff;
 }
 .lineui:hover {
-  color: #ff0f11;
+  color: #582BAC;
 }
 .card {
   background-color: transparent !important;
