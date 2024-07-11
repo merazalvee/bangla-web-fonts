@@ -96,12 +96,11 @@ body {
   width: 100%;
   border: 1px #615897 dashed;
   /*border: none;*/
-  padding: 10px 10px;
+  padding: 10px 10px 10px;
   border-radius: 5px;
 }
 .form-range::-moz-range-thumb {
   background: linear-gradient(90deg, #c60b0d, #ff0f11) !important;
-  text-align: center;
 }
 .font-box {
   background-color: #181A31;
