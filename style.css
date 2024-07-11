@@ -102,10 +102,11 @@ body {
   background: linear-gradient(90deg, #c60b0d, #ff0f11) !important;
 }
 .font-box {
-  background-color: #343a40;
+  background-color: #181A31;
   color: #ffffff;
+  border: 1px #615897 dashed;
   position: relative;
-  border-radius: 20px;
+  border-radius: 10px;
   padding: 20px;
   margin-bottom: 20px;
   box-shadow: 4px 4px 30px 0 rgba(0, 0, 0, 0.1);
