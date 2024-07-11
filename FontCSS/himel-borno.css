@@ -1,0 +1,8 @@
+/* himel-borno Font Face */
+@font-face {
+  font-family: "himel-borno";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fonts/himel-borno.ttf) format("truetype");
+}
