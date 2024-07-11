@@ -91,6 +91,7 @@ body {
   padding: 0 0 0 20px;
   margin: 0 10px 0 10px;
   border-radius: 10px;
+  margin-bottom: -10px;
   font-family: /*"Space Grotesk",*/ "Hind Siliguri", sans-serif;
 }
 .font-input {
