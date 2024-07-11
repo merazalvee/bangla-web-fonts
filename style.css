@@ -7,7 +7,7 @@
 @import url("https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css");
 
 /* Font CSS */
-@import "./FontCSS/anek-bangla.css";
+@import "./FontCSS/aborton.css";
 @import "./FontCSS/tiro-banga.css";
 @import "./FontCSS/apona-lohit.css";
 @import "./FontCSS/alinur-tatsama.css";
@@ -41,7 +41,7 @@ body {
   justify-content: right;
   height: 100%;
   color: #ffffff;
-  font-family: "Space Grotesk", "Hind Siliguri", sans-serif;
+  font-family: /*"Space Grotesk",*/ "Hind Siliguri", sans-serif;
 }
 .avtar {
   height: 50px;
@@ -90,7 +90,7 @@ body {
   align-items: center;
   padding: 0 0 0 20px;
   border-radius: 10px;
-  font-family: "Space Grotesk", "Hind Siliguri", sans-serif;
+  font-family: /*"Space Grotesk",*/ "Hind Siliguri", sans-serif;
 }
 .font-input {
   width: 100%;
@@ -112,7 +112,7 @@ body {
   margin-bottom: 20px;
   /*box-shadow: 4px 4px 30px 0 rgba(0, 0, 0, 0.1);*/
   overflow: hidden;
-  font-family: "Space Grotesk", "Hind Siliguri", sans-serif;
+  font-family: /*"Space Grotesk",*/ "Hind Siliguri", sans-serif;
 }
 .font-box-content {
   position: inherit;
@@ -229,8 +229,8 @@ body {
   text-decoration: none;
 }
 /* All Font Family */
-.anek-bangla {
-  font-family: "Anek Bangla";
+.aborton {
+  font-family: "Aborton";
 }
 .tiro-bangla {
   font-family: "Tiro Bangla";
