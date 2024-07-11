@@ -101,6 +101,7 @@ body {
 }
 .form-range::-moz-range-thumb {
   background: linear-gradient(90deg, #c60b0d, #ff0f11) !important;
+  text-align: center;
 }
 .font-box {
   background-color: #181A31;
