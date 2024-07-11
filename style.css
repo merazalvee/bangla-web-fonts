@@ -170,7 +170,7 @@ body {
 }
 .link-cdn,
 .import-cdn {
-  background-color: #21252952;
+  background-color: #060527/*#21252952*/;
   padding: 15px;
   border-radius: 5px;
 }
@@ -191,7 +191,7 @@ body {
 .link-cdn i,
 .import-cdn i {
   color: #ffffff;
-  font-size: 24px;
+  font-size: 20px;
 }
 .font-down-btn {
   background-color: #582BAC;
