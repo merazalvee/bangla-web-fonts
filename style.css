@@ -96,7 +96,7 @@ body {
   width: 100%;
   border: 1px #615897 dashed;
   /*border: none;*/
-  padding: 10px 10px 10px;
+  padding: 10px 10px 10px 20px;
   border-radius: 5px;
 }
 .form-range::-moz-range-thumb {
