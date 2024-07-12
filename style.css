@@ -10,7 +10,7 @@
 @import "./FontCSS/aborton.css";
 @import "./FontCSS/priyo-nabi.css";
 @import "./FontCSS/himel-borno.css";
-@import "./FontCSS/alinur-tatsama.css";
+@import "./FontCSS/baraka.css";
 @import "./FontCSS/alinur-borno-bikash.css";
 @import "./FontCSS/hind-siliguri.css";
 @import "./FontCSS/alinur-subas.css";
@@ -244,8 +244,8 @@ color: #582BAC;
 .himel-borno {
   font-family: "Himel Borno";
 }
-.alinur-tatsama {
-  font-family: "Alinur Tatsama";
+.baraka {
+  font-family: "Baraka";
 }
 .alinur-borno-bikash {
   font-family: "Alinur Borno Bikash";
