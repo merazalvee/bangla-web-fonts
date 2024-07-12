@@ -82,7 +82,7 @@ body {
   color: #ffffff;
 }
 small {
-color: red;
+display: none;
 }
 .font-tester {
   height: 90px;
