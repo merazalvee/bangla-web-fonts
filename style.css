@@ -22,7 +22,7 @@
 @import "./FontCSS/sunar-bangla.css";
 @import "./FontCSS/kalpurush.css";
 @import "./FontCSS/srabondhara.css";
-@import "./FontCSS/alinur-ullas.css";
+@import "./FontCSS/hasan-priyotoma.css";
 
 body {
   background-color: #060527 !important;
@@ -277,6 +277,6 @@ color: #582BAC;
 .srabondhara {
   font-family: "Srabondhara";
 }
-.alinur-ullas {
-  font-family: "Alinur Ullas";
+.hasan-priyotoma {
+  font-family: "Hasan Priyotoma";
 }
