@@ -136,7 +136,7 @@ color: #582BAC;
 .font-box-utility {
   display: flex;
   justify-content: space-between;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 .font-box-utility button {
   border: none;
