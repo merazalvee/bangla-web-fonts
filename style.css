@@ -11,7 +11,7 @@
 @import "./FontCSS/priyo-nabi.css";
 @import "./FontCSS/himel-borno.css";
 @import "./FontCSS/baraka.css";
-@import "./FontCSS/alinur-borno-bikash.css";
+@import "./FontCSS/ekush.css";
 @import "./FontCSS/hind-siliguri.css";
 @import "./FontCSS/alinur-subas.css";
 @import "./FontCSS/lipishree.css";
@@ -247,8 +247,8 @@ color: #582BAC;
 .baraka {
   font-family: "Baraka";
 }
-.alinur-borno-bikash {
-  font-family: "Alinur Borno Bikash";
+.ekush {
+  font-family: "Ekush";
 }
 .alinur-subas {
   font-family: "Alinur Subas";
