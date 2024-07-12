@@ -13,7 +13,7 @@
 @import "./FontCSS/baraka.css";
 @import "./FontCSS/ekush.css";
 @import "./FontCSS/hind-siliguri.css";
-@import "./FontCSS/alinur-subas.css";
+@import "./FontCSS/hasan-jhora-pata.css";
 @import "./FontCSS/lipishree.css";
 @import "./FontCSS/charukola.css";
 @import "./FontCSS/shokuntola.css";
@@ -250,8 +250,8 @@ color: #582BAC;
 .ekush {
   font-family: "Ekush";
 }
-.alinur-subas {
-  font-family: "Alinur Subas";
+.hasan-jhora-pata {
+  font-family: "Hasan Jhora Pata";
 }
 .lipishree {
   font-family: "Lipishree";
