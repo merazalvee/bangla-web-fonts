@@ -14,7 +14,7 @@
 @import "./FontCSS/ekush.css";
 @import "./FontCSS/hind-siliguri.css";
 @import "./FontCSS/hasan-jhora-pata.css";
-@import "./FontCSS/lipishree.css";
+@import "./FontCSS/helal-laveriya.css";
 @import "./FontCSS/charukola.css";
 @import "./FontCSS/shokuntola.css";
 @import "./FontCSS/bornoporichay.css";
@@ -253,8 +253,8 @@ color: #582BAC;
 .hasan-jhora-pata {
   font-family: "Hasan Jhora Pata";
 }
-.lipishree {
-  font-family: "Lipishree";
+.helal-laveriya {
+  font-family: "Helal Laveriya";
 }
 .charukola {
   font-family: "Charukola";
