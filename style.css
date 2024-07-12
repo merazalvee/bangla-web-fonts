@@ -15,7 +15,7 @@
 @import "./FontCSS/hind-siliguri.css";
 @import "./FontCSS/hasan-jhora-pata.css";
 @import "./FontCSS/helal-laveriya.css";
-@import "./FontCSS/charukola.css";
+@import "./FontCSS/mahfuj-raiyan.css";
 @import "./FontCSS/shokuntola.css";
 @import "./FontCSS/bornoporichay.css";
 @import "./FontCSS/bokul.css";
@@ -256,8 +256,8 @@ color: #582BAC;
 .helal-laveriya {
   font-family: "Helal Laveriya";
 }
-.charukola {
-  font-family: "Charukola";
+.mahfuj-raiyan {
+  font-family: "Mahfuj Raiyan";
 }
 .shokuntola {
   font-family: "Shokuntola";
