@@ -23,6 +23,7 @@
 @import "./FontCSS/kalpurush.css";
 @import "./FontCSS/srabondhara.css";
 @import "./FontCSS/hasan-priyotoma.css";
+@import "./FontCSS/mamun-bornolipi.css";
 
 body {
   background-color: #060527 !important;
@@ -279,4 +280,7 @@ color: #582BAC;
 }
 .hasan-priyotoma {
   font-family: "Hasan Priyotoma";
+}
+.mamun-bornolipi {
+  font-family: "Mamun Bornolipi";
 }
