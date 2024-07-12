@@ -20,7 +20,7 @@
 @import "./FontCSS/bornoporichay.css";
 @import "./FontCSS/mahin-shefa.css";
 @import "./FontCSS/sunar-bangla.css";
-@import "./FontCSS/shurjo.css";
+@import "./FontCSS/kalpurush.css";
 @import "./FontCSS/srabondhara.css";
 @import "./FontCSS/alinur-ullas.css";
 
@@ -271,8 +271,8 @@ color: #582BAC;
 .sunar-bangla {
   font-family: "Sunar Bangla";
 }
-.shurjo {
-  font-family: "Shurjo";
+.kalpurush {
+  font-family: "Kalpurush";
 }
 .srabondhara {
   font-family: "Srabondhara";
