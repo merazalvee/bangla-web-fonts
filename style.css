@@ -176,7 +176,7 @@ color: #582BAC;
 .link-cdn,
 .import-cdn {
   background-color: #060527/*#21252952*/;
-  padding: 15px;
+  padding: 5px 15px;
   border-radius: 5px;
 }
 .import-cdn {
