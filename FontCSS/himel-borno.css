@@ -1,8 +1,11 @@
 /* Himel Borno Font Face */
 @font-face {
   font-family: "Himel Borno";
+  font-weight: normal;
   font-style: normal;
-  font-weight: 400;
-  font-display: swap;
   src: url(../fonts/himel-borno.ttf) format("truetype");
 }
+
+/*
+© 2024 - all rights reserved by Bangla Web Fonts
+*/
