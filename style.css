@@ -162,6 +162,7 @@ color: #582BAC;
 }
 .lineui {
   color: #ffffff;
+  font-size: 40px;
 }
 .lineui:hover {
   color: #582BAC;
