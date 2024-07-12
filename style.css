@@ -16,7 +16,7 @@
 @import "./FontCSS/hasan-jhora-pata.css";
 @import "./FontCSS/helal-laveriya.css";
 @import "./FontCSS/mahfuj-raiyan.css";
-@import "./FontCSS/shokuntola.css";
+@import "./FontCSS/mahin-sayeedi.css";
 @import "./FontCSS/bornoporichay.css";
 @import "./FontCSS/bokul.css";
 @import "./FontCSS/sutonnymj.css";
@@ -259,8 +259,8 @@ color: #582BAC;
 .mahfuj-raiyan {
   font-family: "Mahfuj Raiyan";
 }
-.shokuntola {
-  font-family: "Shokuntola";
+.mahin-sayeedi {
+  font-family: "Mahin Sayeedi";
 }
 .bornoporichay {
   font-family: "Bornoporichay";
