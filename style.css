@@ -127,10 +127,10 @@ color: #582BAC;
   height: 180px;
   width: 180px;
   border-radius: 50%;
-  background-color: #4D535E;
+  background-color: #582BAC;
   opacity: 0.3;
-  top: -50px;
-  left: -50px;
+  top: -120px;
+  left: -80px;
   z-index: 1;
 }
 .font-box-utility {
