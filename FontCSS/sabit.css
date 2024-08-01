@@ -1,0 +1,17 @@
+/* A Khando Font Face */
+@font-face {
+  font-family: "aKhando";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/a-khando.ttf) format("truetype");
+}
+
+/* Mayour Pankhi Face */
+@font-face {
+  font-family: "Mayour Pankhi";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/mayour-pankhi.ttf) format("truetype");
+}
